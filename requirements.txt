@@ -1,0 +1,7 @@
+pandas
+nltk
+selenium
+matplotlib
+seaborn
+wordcloud
+webdriver-manager
